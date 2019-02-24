@@ -1,6 +1,6 @@
 echo off
 
-set PATH=%PATH%;C:\MinGW\bin;
+set PATH=%PATH%;C:\CodeBlocks\MinGW\bin;
 
 gcc -c -s -O2 clnt.c
 
